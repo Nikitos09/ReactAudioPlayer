@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.listItem{
+    display: flex;
+    padding: 10px;
+    margin: 10px 0;
+}
+.listItem button{
+    border-radius: 50%;
+    text-align: center;
+    border: none;
+    width: 30px;
+    height: 30px;
+    cursor: pointer;
+    font-size: 20px;
+    padding: 0 0 0 3px;
+}
+.listItem button:hover{
+    color: #3f51b5;
+}
+.listItem h4{
+    margin: 0 10px;
+}

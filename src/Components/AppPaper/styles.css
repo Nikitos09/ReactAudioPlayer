@@ -1,0 +1,4 @@
+.AppWrapper {
+    display: flex;
+    flex-wrap: wrap;
+}

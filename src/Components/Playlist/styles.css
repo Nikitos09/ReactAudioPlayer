@@ -1,0 +1,25 @@
+.playlistWrapper {
+    width: 80%;
+    margin: 20px auto;
+}
+
+.playlistTitle {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.playlistTitle img{
+    height: 200px;
+    width: auto;
+}
+
+.playlistTitle h1{
+    margin: 20px;
+}
+
+.currentRecord {
+    margin: 0 20px;
+}
+
+
